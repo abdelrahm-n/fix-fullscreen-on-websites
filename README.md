@@ -1,5 +1,5 @@
 # Simple Fullscreen fix on various websites
-Credits to: [@graphpg](https://discord.com/users/956614890766876784)
+Code made by: [@graphpg](https://discord.com/users/956614890766876784)
 
 If your fails to open a movie, video or anything with fullscreen, copy the paste it in your browser Console:
 
